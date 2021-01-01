@@ -19,7 +19,7 @@ class BadPasswordGenerator:
         self.i += 1
         return password
 
-
+а
 # пример использования класса
 # generator = BadPasswordGenerator()
 # print(generator.next())
